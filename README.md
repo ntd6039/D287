@@ -1,8 +1,7 @@
-<strong>** DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
 
 
-# WESTERN GOVERNOR UNIVERSITY
-## D287 – JAVA FRAMEWORKS
+# 
+## D*&%^2*8*7 – JAVA FRAMEWORKS
 ## Use for header
 2. Used to number
 > Used to comment
@@ -21,7 +20,7 @@
 
 
 A. Link to Repo
-> https://gitlab.com/wgu-gitlab-environment/student-repos/ntd6039/d287-java-frameworks.git
+insert link
 
 
 B. Read me created
